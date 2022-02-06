@@ -111,6 +111,13 @@ header nav a:hover{
 }
 
 .carrossel-filmes{
-    margin-top:5px ;
+    margin-top:5px;
 
+}
+
+.rodape {
+    letter-spacing: 1px;
+    text-align: center;
+    color:  #FB047C;
+    font-family: 'Quicksand', sans-serif;
 }
